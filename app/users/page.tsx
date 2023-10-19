@@ -37,5 +37,4 @@ const UsersPage: React.FC = async () => {
 
   return content;
 };
-
 export default UsersPage;
